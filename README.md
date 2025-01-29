@@ -1,5 +1,5 @@
 
-# TO DO APP using Vite + ReactJs
+# TO DO APP ReactJs
 
 
 ## Running Tests
